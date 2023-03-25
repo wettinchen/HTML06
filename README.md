@@ -35,8 +35,8 @@ https://www.youtube.com/@DaveGrayTeachesCode
         
 
 ###  7. Insert a 2nd image <Code更動>
-        在 I have heard good things about the Caribbean.下方插入第二張影像，影像檔名為 caribbean.jpg，並設定寬度與高度。
-        
+        在 I have heard good things about the Caribbean.下方插入第二張影像，
+        影像檔名為 caribbean.jpg，並設定寬度與高度。
 
 ###  8. Loading attribute and "below the fold" <Code更動>
         設定讀取第二張影像採用 lazy loading 
@@ -50,7 +50,9 @@ https://www.youtube.com/@DaveGrayTeachesCode
         
 
 ### 10. Adding a 3rd image <Code更動>
-        在地址下方插入第三張影像，影像檔名為 vacation.jpg，並設定寬度與高度；將影像放入 figure 元素，新增 figcaption 元素進行補充說明；影像讀取方式採用 lazy loading。
+        在地址下方插入第三張影像，影像檔名為 vacation.jpg，並設定寬度與高度；
+        將影像放入 figure 元素，新增 figcaption 元素進行補充說明；
+        影像讀取方式採用 lazy loading。
 
         注意: 不得出現以下錯誤
         Error: Element li not allowed as child of element section in this context. (Suppressing further errors from this subtree.)
